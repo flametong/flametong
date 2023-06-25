@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita Pulyaevskiy
 
-## I am frontend developer
+## I am Frontend developer
 - 🌍  Based in Saint-Petersburg, Russia
 - 🖥️  Portfolio coming soon...
 - 📖 Some of my pet projects:
