@@ -5,6 +5,7 @@
 - 🖥️  Portfolio coming soon...
 - 📖 Some of my pet projects:
   - ☕  [RE:CAFE](https://github.com/flametong/re-cafe)
+  - 📋  [Form App](https://github.com/flametong/FrontCloudCamp-Test-Assignment-Solution)
 - 🔍  Looking for an internship or job (hybrid/remote/office)
   
 ## Skills
