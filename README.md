@@ -6,7 +6,7 @@
 - 📖 Some of my pet projects:
   - 🏪  [E-shop](https://github.com/flametong/e-shop) PHP
   - ☕  [RE:CAFE](https://github.com/flametong/re-cafe) JavaScript
-  - 📋  [Form App](https://github.com/flametong/FrontCloudCamp-Test-Assignment-Solution) JavaScript
+  - 📋  [Form App](https://github.com/flametong/FrontCloudCamp-Test-Assignment-Solution) TypeScript
 - 🔍  Looking for an internship or job (hybrid/remote/office)
   
 ## Skills
