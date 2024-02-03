@@ -45,6 +45,9 @@
   <a href="https://symfony.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" width="36" height="36" alt="Symfony" />
   </a> &nbsp;
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="36" height="36" alt="Golang" />
+  </a> &nbsp;
 </p>
 
 ## Socials
