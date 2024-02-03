@@ -32,15 +32,18 @@
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
       <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="36" height="36" alt="Laravel" />
+  </a> &nbsp;
 </p>
 
 ## Currently Learning
 <p align="left">
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="36" height="36" alt="Laravel" />
-  </a> &nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" width="36" height="36" alt="Docker" />
+  </a> &nbsp;
+  <a href="https://symfony.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" width="36" height="36" alt="Symfony" />
   </a> &nbsp;
 </p>
 
