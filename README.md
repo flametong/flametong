@@ -33,8 +33,8 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40" title="PHP" alt="PHP"/>
   </a>&nbsp;
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="36" height="36" title="Laravel" alt="Laravel" />
-  </a>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="36" height="36" title="Laravel" alt="Laravel" />
+  </a>
 </p>
 
 ## Currently Learning
@@ -47,7 +47,7 @@
   </a>&nbsp;
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="36" height="36" title="Golang" alt="Golang" />
-  </a>&nbsp;
+  </a>
 </p>
 
 ## Socials
